@@ -3,6 +3,5 @@ J'ai réalisé un projet sur Power BI au sujet de l'industrie en France à parti
 
 Le lien pour regarder la vidéo Youtube qui présente le projet : [https://www.youtube.com/watch?v=tQtAprKE4Qg] 
 
-
-[Voir le rapport Power BI]([https://app.powerbi.com/view?r=eyJrIjoiZmE4MDcwNDItOTYwZS00MTQ5LTgzZjEtOWNmY2NiYTE4MDNlIiwidCI6IjBmNmFjYzg4LTgxNWYtNDg0Mi04YzJmLTFlZWFiNzAyOGY0MSJ9](https://app.powerbi.com/view?r=eyJrIjoiZmE4MDcwNDItOTYwZS00MTQ5LTgzZjEtOWNmY2NiYTE4MDNlIiwidCI6IjBmNmFjYzg4LTgxNWYtNDg0Mi04YzJmLTFlZWFiNzAyOGY0MSJ9&pageName=e94eb14dde2842e66c08))
+[Voir le rapport Power BI](https://app.powerbi.com/view?r=eyJrIjoiZmE4MDcwNDItOTYwZS00MTQ5LTgzZjEtOWNmY2NiYTE4MDNlIiwidCI6IjBmNmFjYzg4LTgxNWYtNDg0Mi04YzJmLTFlZWFiNzAyOGY0MSJ9&pageName=e94eb14dde2842e66c08)
 
