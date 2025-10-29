@@ -8,4 +8,4 @@ Une présentation plus courte : [https://youtu.be/5k8as0fqvOY]
 
 
 
-https://app.powerbi.com/reportEmbed?reportId=27dc94d6-2716-43a1-9908-d76301b128e8&autoAuth=true&ctid=0f6acc88-815f-4842-8c2f-1eeab7028f41 
+<iframe title="Projet Power BI_Industrie_VisualisationSecteurs_CB_2025" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZmE4MDcwNDItOTYwZS00MTQ5LTgzZjEtOWNmY2NiYTE4MDNlIiwidCI6IjBmNmFjYzg4LTgxNWYtNDg0Mi04YzJmLTFlZWFiNzAyOGY0MSJ9" frameborder="0" allowFullScreen="true"></iframe>
